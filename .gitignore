@@ -1,0 +1,7 @@
+_build/
+# executables
+*.native
+
+# IDEA project-related metadata
+# -------------------------------------
+.idea/
